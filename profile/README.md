@@ -27,4 +27,3 @@ Have questions, suggestions, or want to learn more about RockTea PL? You can rea
 
 Join us in shaping the future of Ecommerce in Africa. Let's work together to create a more connected and prosperous continent.
 
-![RockTea PL Logo](https://www.rockteapl.com/images/logo.png)
